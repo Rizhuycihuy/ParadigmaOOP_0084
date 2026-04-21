@@ -12,3 +12,7 @@ class mahassiswa{
               cout <<"nilai = "<< nilai <<endl;
           }
 };
+
+int main(){
+  
+}
