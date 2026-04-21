@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class mahassiswa{
+class mahasiswa{
     public:
           int nim;
           string nama;
@@ -14,5 +14,6 @@ class mahassiswa{
 };
 
 int main(){
-  
+  mahasiswa mhs1;
+
 }
